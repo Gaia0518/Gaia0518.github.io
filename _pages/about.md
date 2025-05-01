@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.snu.ac.kr'>서울대학교</a> | <a href='https://eng.snu.ac.kr/snu/main/main.do'>공과대학</a> | <a href='https://architecture.snu.ac.kr/'>건축학</a>
+subtitle: <a href='https://www.snu.ac.kr'>서울대학교</a> | <a href='https://eng.snu.ac.kr/snu/main/main.do'>공과대학</a> | <a href='https://architecture.snu.ac.kr/'>건축학과</a>
 
 profile:
   align: right
@@ -25,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+김가연은 2023년도 서울대학교 공과대학 건축학과에 입학했습니다. 현재 1910~1930년대 이왕가 양관의 건축적 특성이라는 제목의 학위 논문을 작성하고 있으며, 문헌을 바탕으로 한 인문데이터에 관심이 생겨 2025년 1학기 현재 [인문데이터과학개론]을 수강하고 있습니다.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[인문데이터과학개론]에서는 최근 Github Pages와 Jekyll을 활용하여 개인 사이트를 만드는 방법을 배웠습니다.
