@@ -6,7 +6,7 @@ subtitle: <a href='https://www.snu.ac.kr'>서울대학교</a> | <a href='https:/
 
 profile:
   align: right
-  image: prof_pic_color.jpg 
+  image: my image_pic.jpg 
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>서울대학교 건축학과 역사도시건축연구실 석사과정</p>
