@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-my-first-jekyll-blog-post",
+            },{id: "post-markdown-문법-기초",
+        
+          title: "Markdown 문법 기초",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Markdown/";
+          
+        },
+      },{id: "post-my-first-jekyll-blog-post",
         
           title: "My first Jekyll blog post",
         
